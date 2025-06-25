@@ -11,6 +11,9 @@ import './editCodeService.js'
 import './sidebarActions.js'
 import './sidebarPane.js'
 
+// register multi-agent service
+import './multiAgentService.js'
+
 // register quick edit (Ctrl+K)
 import './quickEditActions.js'
 
